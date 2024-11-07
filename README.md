@@ -92,6 +92,100 @@ Artists, creators, and professionals who seek a space to share their work, colla
 ### **Expected Outcome**:
 A web platform that bridges the gap between file collaboration and social networking for artists and creators, allowing them to showcase their work, collaborate with peers, and engage with a professional audience.
 
+----------------------------------------------------------------------------------------------------------------------------------
+==================================================================================================================================
+
+Modules & Pages :
+
+
+### **Summary of Modules and Pages**:
+
+| Module                     | Number of Pages |
+|----------------------------|-----------------|
+| **User Authentication**    | 4               |
+| **User Profile & Dashboard**| 3              |
+| **File Management**        | 5               |
+| **Version Control**        | 3               |
+| **Social Interaction**     | 4               |
+| **Search & Filtering**     | 2               |
+| **Admin Dashboard**        | 3               |
+| **Settings & Support**     | 2               |
+
+**Total Number of Pages**: 26
+
+
+### **1. User Authentication Module** 
+   - **Login Page** (1 page): For users to log in with email, Google, or LinkedIn.
+   - **Registration Page** (1 page): Sign-up page for new users.
+   - **Password Reset Page** (1 page): For users to reset forgotten passwords.
+   - **Profile Setup Page** (1 page): Initial setup for new users after registration.
+
+   **Total Pages**: 4
+
 ---
 
-This documentation should give a clear overview and convey the scope, features, and technical plan of your project effectively. Let me know if you’d like to expand any section further!
+### **2. User Profile & Dashboard Module**
+   - **User Profile Page** (1 page): Displays the user’s profile, including portfolio, connections, and announcements.
+   - **Edit Profile Page** (1 page): Allows users to edit their bio, profile picture, and other details.
+   - **Dashboard/Home Page** (1 page): Main feed showing updates from followed users and projects.
+
+   **Total Pages**: 3
+
+---
+
+### **3. File Management Module** (Google Drive-like)
+   - **My Files Page** (1 page): A page displaying the user’s uploaded files, organized in folders.
+   - **File/Folder View Page** (1 page): When a folder or file is opened, this page shows the file details or content.
+   - **Upload Page** (1 page): A simple interface for file uploads.
+   - **Shared with Me Page** (1 page): Displays files and folders shared with the user.
+   - **File Sharing & Permissions Page** (1 page): A modal or dedicated page to set permissions (e.g., public, private, or team).
+
+   **Total Pages**: 5
+
+---
+
+### **4. Version Control Module** (GitHub-like)
+   - **File Version History Page** (1 page): Shows the version history of a selected file.
+   - **File Comparison Page** (1 page): Allows users to compare different versions.
+   - **Commenting and Annotations Page** (1 page): View and add comments to specific sections within files.
+
+   **Total Pages**: 3
+
+---
+
+### **5. Social Interaction Module**
+   - **Activity Feed Page** (1 page): Displays posts and updates from followed users.
+   - **Post Detail Page** (1 page): For viewing a specific post in detail with comments.
+   - **Create Post/Announcement Page** (1 page): A form to create a new post or announcement.
+   - **Notifications Page** (1 page): Shows notifications for new comments, likes, or shares.
+
+   **Total Pages**: 4
+
+---
+
+### **6. Search and Filtering Module**
+   - **Search Results Page** (1 page): Displays search results for files, users, or posts.
+   - **Advanced Filter Page** (1 page): Page to apply filters based on file type, date, tags, or collaborators.
+
+   **Total Pages**: 2
+
+---
+
+### **7. Admin Dashboard Module**
+   - **Admin Dashboard Page** (1 page): Main dashboard showing platform metrics (e.g., user count, active files).
+   - **User Management Page** (1 page): Displays all users with options to suspend or moderate accounts.
+   - **Content Moderation Page** (1 page): Shows flagged content for admin review.
+
+   **Total Pages**: 3
+
+---
+
+### **8. Settings & Support Module**
+   - **Settings Page** (1 page): User settings, including privacy, notification preferences, etc.
+   - **Help/Support Page** (1 page): Basic support and FAQ page for common user queries.
+
+   **Total Pages**: 2
+
+---
+
+
